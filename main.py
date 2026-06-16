@@ -16,7 +16,7 @@ while True:
     a=float(input("Enter number: "))
     b=float(input("Enter number: "))
 
-    if n=='e':
+    if n==0:
         print(a+b)
     elif n==2:
         print(a-b)
