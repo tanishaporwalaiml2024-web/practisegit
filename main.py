@@ -31,4 +31,4 @@ while True:
     elif n==7:
         print(a**b)
     else:
-        print("Invalid Choice!!")
+        print("Invalid choice...")
