@@ -6,7 +6,7 @@ while True:
     print("5.Modulus")
     print("6.Floor Division")
     print("7.Power")
-    print("0.Exit")
+    print("0.End")
 
     n=input("Enter your choice: ")
     if n==0:
